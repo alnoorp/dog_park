@@ -39,7 +39,7 @@ group :development, :test do
   gem 'valid_attribute'
   gem 'shoulda-matchers'
   gem 'capybara'
-  gem 'dotenv'
+  gem 'dotenv-rails'
   gem 'quiet_assets'
 end
 
